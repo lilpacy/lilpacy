@@ -1,4 +1,4 @@
-<!-- ========== Syntax Example ========== -->
+<!-- ========== Syntax ========== -->
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -35,9 +35,13 @@
 
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2165sjh7qq55gdep6f43r6nvq&count=3)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lilpacy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2165sjh7qq55gdep6f43r6nvq&count=3)  
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lilpacy&theme=onedark&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)  
+  
+</div>
 
 <!-- ========== Footer ========== -->
 

@@ -27,7 +27,7 @@ jobs:
           # Options
           user: lilpacy
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: Asia/Tokyo
           plugin_stars: yes
           plugin_stars_limit: 4

@@ -73,7 +73,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustwasm/wasm-pack-template</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a template for starting a rust-wasm project to be used with wasm-pack</div>
@@ -126,7 +126,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crytic/building-secure-contracts</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Guidelines and training material to write secure smart contracts</div>
@@ -179,7 +179,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>takashi-yoneya/fastapi-template</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a practical template using FastAPI. It is dockerized including DB (MySQL) and uvicorn. Package management is implemented using rye. We apologize for the inconvenience. The following text is in Japanese only. Please use automatic translation, etc.  FastAPI を使用した実用的なテンプレートです。 DB(MySQL)と uvicorn を含めて docker 化しています。 rye を使用して、パッケージ管理を実装しています。</div>
@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>d-xo/weird-erc20</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">weird erc20 tokens</div>

@@ -126,7 +126,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pcaversaccio/ecdsa-nonce-reuse-attack</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository implements a Python function that recovers the private key from two different signatures that use the same random nonce during signature generation.</div>

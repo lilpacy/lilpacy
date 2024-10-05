@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -73,7 +73,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oimo23/33-js-concepts</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📜 翻訳：JavaScript開発者が知るべき33のコンセプト</div>
@@ -126,7 +126,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fineanmol/Hacktoberfest2024</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️</div>

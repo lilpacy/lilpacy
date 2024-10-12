@@ -10,6 +10,7 @@
 -->
 
 <!-- ========== Header ========== -->
+<img src="https://github.com/user-attachments/assets/105e039d-fa9e-496a-a522-867aaea3280f" width="8%" height="auto" align="left" />
 
 # *ペイシー*
 

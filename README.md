@@ -26,7 +26,7 @@
 
 <!-- ========== Main Content ========== -->
 
-<img align="left" width="40%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
+<img align="left" width="35%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
 
 <div align="right">
 
@@ -38,9 +38,15 @@
 
 <div align="center">
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2165sjh7qq55gdep6f43r6nvq&count=3)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilpacy&theme=codeSTACKr&exclude=html,css) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lilpacy&theme=codeSTACKr&exclude=html,css)
+
+</div>
+
+<div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lilpacy&theme=onedark&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2165sjh7qq55gdep6f43r6nvq&count=3)  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=lilpacy&theme=onedark&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)  
   
 </div>
 

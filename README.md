@@ -12,6 +12,7 @@
 <!-- ========== Header ========== -->
 # *ペイシー*
 
+<div align="center">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
@@ -21,6 +22,7 @@
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
+</div>
 
 ![qcc76zz9pdh41](https://github.com/lilpacy/lilpacy/assets/26163436/23a0ccb0-15d1-4d8f-ab0a-512dc82a3b34)
 
@@ -45,13 +47,18 @@
 <div align="center">
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2165sjh7qq55gdep6f43r6nvq&count=3)  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=lilpacy&theme=onedark&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)  
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lilpacy&theme=onedark&rank=-B,-C">
   
 </div>
 
 <!-- ========== Footer ========== -->
 
+<div align="center">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
@@ -61,3 +68,4 @@
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
 <img src="https://github.com/lilpacy/lilpacy/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
+</div>

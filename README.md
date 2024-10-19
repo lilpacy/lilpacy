@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lilpacy&theme=onedark&rank=-B,-C">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilpacy&theme=onedark&rank=-B,-C&column=7"></a>
   
 </div>
 

@@ -28,7 +28,7 @@
 
 <!-- ========== Main Content ========== -->
 
-<img align="left" width="34%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
+<img align="left" width="32%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
 
 <div align="right">
 

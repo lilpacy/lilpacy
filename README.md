@@ -34,11 +34,11 @@
 
 <div align="right" width="48%">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=FF805F&multiline=true&random=false&width=450&height=120&lines=I'm+lilpacy%F0%9F%AA%AC;Building+the+future+of+subculture%F0%9F%95%BA;Cypherpunk+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Typescript+and+Solidity%F0%9F%91%BB" />
+  <img width="47%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=FF805F&multiline=true&random=false&width=450&height=120&lines=I'm+lilpacy%F0%9F%AA%AC;Building+the+future+of+subculture%F0%9F%95%BA;Cypherpunk+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Typescript+and+Solidity%F0%9F%91%BB" />
 </a>
 <br>
 <a href="https://github.com/lilpacy/metrics/blob/master/.github/readme/partials/documentation/setup/action.md">
-  <img src="/github-metrics.svg" />
+  <img width="47%" src="/github-metrics.svg" />
 </a>
 </div>
 

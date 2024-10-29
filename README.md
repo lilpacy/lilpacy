@@ -28,7 +28,7 @@
 
 <!-- ========== Main Content ========== -->
 
-<table border="0">
+<table align="center" border="0">
   <tr>
     <td width="50%">
       <img width="100%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
@@ -47,11 +47,16 @@
   </tr>
 </table>
 
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilpacy&theme=codeSTACKr&exclude=html,css) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lilpacy&theme=codeSTACKr&exclude=html,css)
-
-</div>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilpacy&theme=codeSTACKr&exclude=html,css" />
+    </td>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lilpacy&theme=codeSTACKr&exclude=html,css" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   

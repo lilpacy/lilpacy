@@ -50,7 +50,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilpacy&theme=codeSTACKr&exclude=html,css" />
     </td>
     <td width="50%" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lilpacy&theme=codeSTACKr&exclude=html,css" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lilpacy&theme=codeSTACKr&exclude=html,css,shell,markdown,dockerfile" />
     </td>
   </tr>
 </table>

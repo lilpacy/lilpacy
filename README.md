@@ -28,15 +28,24 @@
 
 <!-- ========== Main Content ========== -->
 
-<img align="left" width="30%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
-
-<div align="right">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=FF805F&multiline=true&random=false&width=450&height=120&lines=I'm+lilpacy%F0%9F%AA%AC;Building+the+future+of+subculture%F0%9F%95%BA;Cypherpunk+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Typescript+and+Solidity%F0%9F%91%BB)](https://git.io/typing-svg)
-
-[![Metrics](/github-metrics.svg)](https://github.com/lilpacy/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
-
-</div>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img align="left" width="100%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
+    </td>
+    <td width="50%">
+      <div align="right">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=FF805F&multiline=true&random=false&width=450&height=120&lines=I'm+lilpacy%F0%9F%AA%AC;Building+the+future+of+subculture%F0%9F%95%BA;Cypherpunk+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Typescript+and+Solidity%F0%9F%91%BB" />
+        </a>
+        <br>
+        <a href="https://github.com/lilpacy/metrics/blob/master/.github/readme/partials/documentation/setup/action.md">
+          <img src="/github-metrics.svg" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   

@@ -29,6 +29,7 @@
 <!-- ========== Main Content ========== -->
 <div align="center">
 
+<!-- total 94% width for github mobile app -->
 <img align="left" width="37%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
 
 <div align="right" width="57%">

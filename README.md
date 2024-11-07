@@ -30,9 +30,9 @@
 
 <div align="center">
 
-<img align="left" width="20%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
+<img align="left" width="38%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
 
-<div align="right" width="30%">
+<div align="right" width="58%">
 <a href="https://git.io/typing-svg">
   <img width="60%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=FF805F&multiline=true&random=false&width=450&height=120&lines=I'm+lilpacy%F0%9F%AA%AC;Building+the+future+of+subculture%F0%9F%95%BA;Cypherpunk+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Typescript+and+Solidity%F0%9F%91%BB" />
 </a>

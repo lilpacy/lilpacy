@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img align="left" width="30%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
+<img align="left" width="40%" src="https://github.com/lilpacy/lilpacy/assets/26163436/78cb0b16-4f55-49a5-82d1-012402d59304" />
 
 <div align="right" width="50%">
 <a href="https://git.io/typing-svg">

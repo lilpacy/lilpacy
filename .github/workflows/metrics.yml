@@ -27,7 +27,7 @@ jobs:
           # Options
           user: lilpacy
           template: classic
-          base: header
+          base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           config_timezone: Asia/Tokyo

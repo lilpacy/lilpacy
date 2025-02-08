@@ -29,5 +29,8 @@ jobs:
           template: classic
           base: header
           config_timezone: Asia/Tokyo
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_anilist: yes
+          plugin_anilist_user: "pacy"
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites characters
+          plugin_anilist_limit: 5

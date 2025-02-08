@@ -28,9 +28,13 @@ jobs:
           user: lilpacy
           template: classic
           base: header
+          config_order: anilist
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           config_timezone: Asia/Tokyo
           plugin_anilist: yes
-          plugin_anilist_user: "pacy"
           plugin_anilist_medias: anime
+          plugin_anilist_user: "pacy"
           plugin_anilist_sections: favorites characters
-          plugin_anilist_limit: 5
+          plugin_anilist_limit: 10
+          plugin_anilist_limit_characters: 22

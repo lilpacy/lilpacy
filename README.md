@@ -56,12 +56,6 @@
 </table>
 
 <div align="center">
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2165sjh7qq55gdep6f43r6nvq&count=3)  
-
-</div>
-
-<div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilpacy&theme=onedark&rank=-B,-C,-?&column=7"></a>
 
